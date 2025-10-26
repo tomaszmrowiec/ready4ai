@@ -1,0 +1,2 @@
+# Skopiuj ten plik jako .env i uzupełnij swoje dane
+OPENAI_API_KEY=your_openai_api_key_here
